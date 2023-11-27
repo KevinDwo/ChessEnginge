@@ -1,4 +1,6 @@
-// The game will run in this class till one player has won/draw
+package Run;// The game will run in this class till one player has won/draw
+
+import Util.Endstates;
 
 public class Game {
     private boolean state = true;
